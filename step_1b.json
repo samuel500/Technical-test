@@ -1,0 +1,778 @@
+{"duration": 12, "title": "youthwork", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "youthwork", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "workplacepensions(administratororconsultant)", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 38, "title": "welding-level3", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "welding-level2", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "waterprocesstechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "watchmaker", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "warehousingandstoragewarehouseoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "warehousingandstorageseniorwarehouseperson/teamleader", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "veterinarynursingsmallanimal", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "veterinarynursingequine", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "vehiclesales", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclesales", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclerestoration", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclerestoration", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehicleparts", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehicleparts", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepairmotorcycle", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclemaintenanceandrepairmotorcycle", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepairlightvehicle", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclemaintenanceandrepairlightvehicle", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepairlifttruck", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclemaintenanceandrepairlifttruck", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "vehiclemaintenanceandrepairheavyvehicletrailer", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepairheavyvehicle", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclemaintenanceandrepairheavyvehicle", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepaircaravanandmotorhome", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepaircaravanandmotorhome", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepairautoelectrics/mobileelectrics", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclemaintenanceandrepairautoelectrics/mobileelectrics", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "vehiclefittingspecialisttyrefitting", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclefittingfastfit", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclefittingfastfit", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "vehiclebodyandpaintwindscreenrepair", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "vehiclebodyandpaintvehicledamageassessment", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "vehiclebodyandpaintmechanicalelectricalandtrim", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclebodyandpaintmechanicalelectricalandtrim", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclebodyandpaintbodyrepair", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclebodyandpaintbodyrepair", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclebodyandpaintbodyrefinishing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclebodyandpaintbodyrefinishing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclebodyandpaintbodybuilding", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclebodyandpaintbodybuilding", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclebodyandpaintautomotiveglazing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "utilitiesengineeringtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "unifiedcommunicationstroubleshooter", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "unifiedcommunicationstechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "tunnellingoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 20, "title": "treesandtimber", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "treesandtimber", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "travelconsultant", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "transportplanningtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "trafficofficetrafficofficemanager", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "trafficofficetrafficofficeclerk", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "tradesupplier", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "tradebusinessservices", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 20, "title": "thewaterindustrywaterindustry", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 16, "title": "thewaterindustrywaterindustry", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "thewaterindustryutilitiesnetworkplanningandmanagement", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "thewaterindustrysewerageoperationsandmaintenance", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "thegasindustrynetworkconstructionoperations(gas)", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "thegasindustrygasheatingandenergyefficiency", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "thegasindustrygasfiredwetcentralheating", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "textilemanufacturingoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "technicaltheatrelightingsoundandstagestage", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "technicaltheatrelightingsoundandstagestage", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "technicaltheatrelightingsoundandstagesound", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "technicaltheatrelightingsoundandstagesound", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "technicaltheatrelightingsoundandstagelighting", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "technicaltheatrelightingsoundandstagelighting", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "teamleader/supervisor", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "teachingassistant", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "teacher", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 36, "title": "systemsengineeringmasterslevel", "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 12, "title": "sustainableresourceoperationsandmanagement", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 30, "title": "sustainableresourcemanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 22, "title": "sustainableresourcemanagement", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "survivalequipmentfitter", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "surveyingtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "supportingteachingandlearninginschools", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "supportingteachingandlearninginschools", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "supportingteachingandlearninginphysicaleducationandschoolsport", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "supplychainwarehouseoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "supplychainoperator", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "supplychainmanagementsupplychainspecialist", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "supplychainmanagementsupplychainoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "supplychainmanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "supplychainmanagementinternationalsupplychainmanager", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 18, "title": "sportsturfoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "sportsdevelopmentsportsdevelopment", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "sportingexcellencesportingexcellencepathwaytwo", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "sportingexcellencesportingexcellencepathwayone", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "spectatorsafety", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "spectatorsafetyadvancedspectatorsafety", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "spectaclemaker", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "solicitor", "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 24, "title": "softwaretester", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "softwaredeveloper", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "softwaredevelopmenttechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "socialmediaanddigitalmarketingsocialmedia", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "socialmediaanddigitalmarketingdigitalmarketing", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "socialmediaanddigitalmarketingdigitalmarketing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "signmakingsignmaker/technician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "signmakingsignmaker/installer", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "senior/headoffacilitiesmanagement", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 18, "title": "seniorhousing/propertymanagement", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "seniorhealthcaresupportworker", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "seniorfinancialservicescustomeradviser", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "seniorcompliance/riskspecialist", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "seniorchefproductioncooking", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "seniorleadermaster'sdegreeapprenticeship", "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 42, "title": "seniorinsuranceprofessional", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "securitysystems", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "securitysystems", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "sciencemanufacturingtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "scienceindustrymaintenancetechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "sciencemanufacturingprocessoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 60, "title": "scienceindustryprocess/plantengineer(degree)", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 18, "title": "schoolbusinessprofessional", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "scaffolder", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "salesandtelesales", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "salesandtelesales", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "safetyhealthandenvironmenttechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "retailer", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 15, "title": "retailvisualmerchandising", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "retailsalesprofessional", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "retailteamleader", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "retailmanager", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 48, "title": "relationshipmanager(banking)", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "rehabilitationworker(visualimpairment)", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "regulatorycomplianceofficer", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 48, "title": "registerednurse", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "refrigerationandairconditioningrefrigerationserviceandmaintenance", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "refrigerationandairconditioningrefrigeration", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "refrigerationandairconditioningrefrigeration", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "refrigerationandairconditioningairconditioningserviceandmaintenance", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "refrigerationandairconditioningairconditioning", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "refrigerationandairconditioningairconditioning", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "refrigerationairconditioningandheatpumpengineeringtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "recruitmentrecruitmentresourcing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "recruitment", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "recruitment", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "recruitmentresourcer", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "recruitmentconsultant", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "railwayengineeringdesigntechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "railengineeringtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "railengineeringoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "railengineeringadvancedtechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "railservicessignaloperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "railservicesshunting", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "railservicesrailsupervision", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "railservicespassengerservices", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "railservicesdriving", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "railservicescontrolroomoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "railinfrastructureoperator", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "railinfrastructureengineeringtrackmaintenance", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "railinfrastructureengineeringtrack", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "railinfrastructureengineeringtelecoms", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "railinfrastructureengineeringsignalling", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "railinfrastructureengineeringelectrificationmaintenance", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "railinfrastructureengineeringelectrification", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "publicserviceoperationaldeliveryofficer", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "publicrelations", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "publicrelationsassistant", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "providingsecurityservices", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicespensionsadministration", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "providingfinancialserviceslifepensionsandinvestments", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialserviceslifepensionsandinvestments", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicesinvestmentoperations", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicesinvestmentoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicesgeneralinsurance", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicesgeneralinsurance", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicesfinancingandcredit", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicesfinancingandcredit", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicesdebtcollections", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicesdebtcollections", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicescustomerpaymentsforfinancialproductsandservices", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicescustomerpaymentsforfinancialproductsandservices", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicesbanking", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicesbanking", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicesadministrationformortgageand/orfinancialplanningintermediaries", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicesadministrationformortgageand/orfinancialplanningintermediaries", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "propertymaintenanceoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "propertyservicessaleofresidentialproperty", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "propertyservicessaleofresidentialproperty", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "propertyservicesresidentiallettingandmanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "propertyservicesresidentiallettingandmanagement", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "projectmanagement", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 42, "title": "projectcontrolstechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "professionalaccountingtaxationtechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "professionalservicestax", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "professionalservicesmanagementconsulting", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "professionalservicesmanagementaccounting", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "professionalservicesaudit", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 60, "title": "productdesignanddevelopmentengineer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "processmanufacturingprocessoperator/technician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "processmanufacturingprocessoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "processmanufacturingprocessengineeringmaintenance", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "processmanufacturingprocessengineeringmaintenance", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "processmanufacturingdownstreamoperations", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "processautomationengineer", "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 18, "title": "probatetechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "printandprintedpackagingreprographics", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "printandprintedpackagingprintfinishing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "printandprintedpackagingprintfinishing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "printandprintedpackagingprintadministrationandmanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "printandprintedpackagingprintadministration", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "printandprintedpackagingpre-press", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "printandprintedpackagingmachineprinting", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "printandprintedpackagingmachineprinting", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "printandprintedpackagingdigitalpre-press", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "printandprintedpackagingcartonmanufacture", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 30, "title": "powernetworkcraftsperson", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "powerengineer", "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 30, "title": "postgraduateengineer", "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 24, "title": "portmarineoperationsofficer", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "policyofficer", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 14, "title": "policingdefencepolicing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "policeconstable", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "policecommunitysupportofficer", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "plumbingandheatingplumbing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "plumbingandheatingdomesticplumbingandheatingoil-firedsolidfuelorenvironmentaloptions", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "plumbingandheatingdomesticplumbingandheatinggas-firedwaterandcentralheatingappliances", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "plumbingandheatingdomesticplumbingandheatinggas-firedwarmairappliance", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 48, "title": "plumbinganddomesticheatingtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "playwork", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "playwork", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "pilingattendant", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "photoimaging", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "payrolladministrator", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "passengertransportonboardandstationteammember", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "passengertransportoperationsmanager", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "passengertransportdriver-buscoachandrail", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "passengercarryingvehicledriving(busandcoach)busandcoach", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "paraplanner", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "paralegal", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "papermaker", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "outsidebroadcastingengineer", "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 18, "title": "outdoorprogrammes", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "organbuilder", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "opticalassistant", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "operationsandqualityimprovementbusiness-improvementtechniques", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 30, "title": "operations/departmentalmanager", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "operationalfirefighter", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "nursingassociate", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 15, "title": "nursingassistantsinaveterinaryenvironment", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "nuclearweldinginspectiontechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 36, "title": "nuclearscientistandnuclearengineer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "nuclearhealthphysicsmonitor", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "nucleartechnician", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "nuclearoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "non-destructivetestingengineeringtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "non-destructivetesting(ndt)operator", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "non-destructivetestingengineer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "networkengineer", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "networkoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "nailservices", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "nailservices", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "motorvehicleserviceandmaintenancetechnician(lightvehicle)", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "motorfinancespecialist", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "mortgageadviser", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "mineralproductstechnologytechnicalandmanagerialdevelopmentinmineralproductstechnologyindustry", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "mineralproductstechnologytechnicalandmanagement", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 18, "title": "mineralprocessingmobileandstaticplantoperator", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "metrologytechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "marketing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "marketing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "maritimeoccupationsworkboatoperation", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "maritimeoccupationsseafishing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "maritimeoccupationsriversinlandwaterwaysandlimiteddistancestosea", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 15, "title": "maritimeoccupationsportoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "maritimeoccupationsofficerofthewatchonmerchantvesselsoflessthan500grosstonnage-nearcoastal", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "maritimeoccupationsofficerofthewatchonmerchantvesselsoflessthan3000grosstonnage-nearcoastal", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "maritimeoccupationsmerchantnavy(engineering)", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "maritimeoccupationsmerchantnavy(deck)", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "maritimeoccupationsmarinasandboatyards", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "maritimeoccupationsableseafarer/tugrating-engineroom", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "maritimecaterer", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "marineengineer", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "manufacturingengineer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "manufacturingengineeringwindgeneration", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringspaceengineering", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringrailengineering", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringnuclearrelatedtechnology", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringmechanical", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringmarine", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringmaintenance", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringelectrical/electronics", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringautomotive", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringaerospace", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "managementteamleading(construction)", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "managementteamleading", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "management", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "management", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "managementleadershipandmanagement", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 36, "title": "maintenanceandoperationsengineeringtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "logisticsoperationslogisticssupportoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "logisticsoperationslogisticsoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "logisticsoperationslogisticsoperationsteamleader/sectionsupervisor", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "liveeventrigger", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "liveeventsandpromotion", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "liveeventsandpromotion", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "liftingtechnician", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalsprocessdevelopmenttechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalslifesciencetechnologist", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalslifesciencetechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalshealthcaresciencetechnologist", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalshealthcaresciencetechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalsfoodsciencetechnologist", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalschemicalsciencetechnologist", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalschemicalsciencetechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "licensedconveyancer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "licensedhospitalitylicensedhospitalitymanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "licensedhospitality", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "librariesarchivesrecordsandinformationmanagementservices", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "librariesarchivesrecordsandinformationmanagementservices", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "leisureandentertainmentmaintenanceengineeringtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "leisureoperationsandleisuremanagementleisureoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "leisureoperationsandleisuremanagementleisuremanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "leisuremanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "leisuredutymanager", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "legalservicesproperty", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "legalservicesprivateclientpractice", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "legalservicespersonalinjury", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "legalservicesparalegalpractice", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "legalservicesfamilypractice", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "legalservicesemploymentpractice", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "legalservicesdebtrecoveryandinsolvency", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "legalservicescommerciallitigation", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "legalservicescivillitigation", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "learninganddevelopment", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "leadadultcareworker", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "largegoodsvehicle(lgv)driver", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "land-basedserviceengineeringtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "land-basedserviceengineer", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 15, "title": "land-basedengineering", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "land-basedengineering", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "laboratorytechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "laboratoryscientist-level5", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 60, "title": "laboratoryscientist-level6", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "juniormanagementconsultant", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "juniorjournalist", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "juniorenergymanager", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "juniorestateagent", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "juniorcontentproducer", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "junior2dartist(visualeffects)", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "jewellerysilversmithingandalliedtradessilversmithing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "jewellerysilversmithingandalliedtradespreciousmetalcad/cam", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "jewellerysilversmithingandalliedtradesjewellerymanufacturing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "jewellerysilversmithingandalliedtradesjewellerymanufacturing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "investmentoperationstechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "investmentoperationsspecialist", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "investmentoperationsadministrator", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "internationaltradeandlogisticsoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "internationalfreightforwardingspecialist", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "internalauditpractitioner", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "intelligenceoperations", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "insuranceprofessional", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "insurancepractitioner", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "installationelectrician/maintenanceelectrician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "infrastructuretechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "industrialthermalinsulationtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "improvingoperationalperformanceperformingmanufacturingoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "improvingoperationalperformanceperformingengineeringoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "improvingoperationalperformancebusiness-improvementtechniques", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 14, "title": "improvementtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 14, "title": "improvementpractitioner", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "itsoftwarewebandtelecomsprofessionals", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "itsoftwarewebandtelecomsprofessionals", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "itsoftwarewebandtelecomsprofessionals", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "ittechnicalsalesperson", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "itapplicationspecialist", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "itapplicationspecialist", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "isbusinessanalyst", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "humanresourcemanagement", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "housing/propertymanagementassistant", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "housing/propertymanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "hospitalityteammember", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "hospitalitysupervisor", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "hospitalitymanager", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "hospitalitymanagement", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "horticulture", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 20, "title": "horticulture", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "horticultureandlandscapeoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "highwayselectrician/serviceoperative", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "highwayelectricalmaintenanceandinstallationoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "highspeedrailandinfrastructuretechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 36, "title": "heavyvehicleserviceandmaintenancetechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "heatingandventilatingservicingandmaintaininghandvsystems", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "heatingandventilatingservicingandmaintaininghandvsystems", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "heatingandventilatingpipeworksystems", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "heatingandventilatingpipeworksystems", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "heatingandventilatingductworksystems", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "heatingandventilatingductworksystems", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "healthcaresupportworker", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "healthcarescienceassociate", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "healthcarescienceassistant", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "healthcareassistantpractitioner", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 36, "title": "healthcaresciencepractitioner", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 18, "title": "healthpharmacyservices", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "healthpharmacyservices", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "healthopticalretail", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "healthopticalretail", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "healthhealthcaresupportservices", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "healthhealthcaresupportservices", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "healthemergencycare", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "hairdressing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "hairdressing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "hairprofessional", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "hrsupport", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "hrconsultant/partner", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "hmforces", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "hmforcesserviceperson(publicservices)", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "golfgreenkeeper", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "glassindustryphotovoltaicsinstallation", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryglazing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "glassindustryglazing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryglassrelateddistributionandwarehousing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "glassindustryglassrelateddistributionandwarehousing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryglassprocessor", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "glassindustryglassprocessing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryglassmanufacturing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "glassindustryflatglassmanufacture", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryfenestrationsurveyor", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "glassindustryfenestrationinstallation", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "glassindustryfenestrationinstallation", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryfabricationofglasssupportingstructures", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "glassindustryfabricationofglasssupportingstructures", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "glassindustrydomesticfasciasoffitandbargeboardinstallation", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "glassindustrycurtainwallinstallation", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryautomotiveglazing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "geospatialsurveytechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "geospatialmappingandsciencedegree", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "gasnetworkteamleader", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "gasnetworkcraftsperson", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "gasengineering", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "gameandwildlifemanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "gameandwildlifemanagement", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingwoodmachining", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingwoodmachining", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingupholsteryandsoftfurnishings", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingupholsteryandsoftfurnishings", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingsupervisioninthefurniturefurnishingsandinteriorsindustry", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingsolidsurfaces", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingrestoringfurniture", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingrestoringfurniture", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingfurnitureandwoodprocessing-cncmachining", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingfurnitureandwoodprocessing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingfurnituremaking", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingfurnituremaking", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingfurnituredesign", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingfittedfurnitureandinteriors", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingfittedfurnitureandinteriors", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingfinishingfurniture", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingfinishingfurniture", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furnituremanufacturer", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "funeraloperationsandservices", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "funeraloperationsandservices", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "forestoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "foodtechnologist", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 30, "title": "foodanddrinkprocessoperator", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "foodanddrinkmaintenanceengineer", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "foodanddrinkadvancedprocessoperator", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "foodanddrinkfishandshellfishindustryskills", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "foodanddrinkbrewingindustryskills", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 60, "title": "foodanddrinkadvancedengineer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 48, "title": "foodindustrytechnicalprofessional", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "floristry", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "floristry", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fishmonger", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "fireemergencyandsecuritysystemstechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "financialservicescustomeradviser", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "financialservicesadministrator", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "financialservicesprofessional", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "financialadviser", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "fencingfencingsupervision", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "fencing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fashionandtextilestextiles", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "fashionandtextilestextiles", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fashionandtextilestailoring", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "fashionandtextilessaddlery", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fashionandtextilesleathergoods", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "fashionandtextilesleathergoods", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fashionandtextilesleatherproduction", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "fashionandtextilesleatherproduction", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fashionandtextilesfootwear", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "fashionandtextilesfootwear", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fashionandtextilesapparel", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "fashionandtextilesapparel", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 50, "title": "farriery", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "facilitiesmanager", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "facilitiesmanagementgeneric", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "facilitiesmanagementgeneric", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "facilitiesmanagementfacilitiesservices", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "facilitiesmanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "facilitiesmanagementbuildingservices", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 18, "title": "facilitiesmanagementsupervisor", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "exerciseandfitnesspersonaltraining", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "exerciseandfitness", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "eventassistant", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "equineracehorsecareandmanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "equineracehorsecare", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "equinehorsecareandmanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "equinehorsecare", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "equineharnesshorsecareandmanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "equineharnesshorsecare", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "equinegroom", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "environmentalconservation", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "environmentalconservation", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "environmentalconservationdrystonewalling", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "environmentalconservationdrystonewalling", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "engineeringdesignanddraughtsperson", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufacturemechanicalmanufacturingengineering", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "engineeringmanufacturemechanicalmanufacturingengineering", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "engineeringmanufacturematerialsprocessingandfinishing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "engineeringmanufacturematerialsprocessingandfinishing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "engineeringmanufacturemarine(yachtandboatbuildingmaintenanceandrepair)", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "engineeringmanufacturemarine(shipyachtboatbuildingmaintenanceandrepair)", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "engineeringmanufacturemarine(shipbuildingmaintenanceandrepair)", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureinstallationandcommissioning", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufacturefabricationandwelding", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "engineeringmanufacturefabricationandwelding", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "engineeringmanufactureengineeringwoodworkingpatternandmodelmaking", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureengineeringtoolmaking", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureengineeringtechnicalsupport", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "engineeringmanufactureengineeringtechnicalsupport", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "engineeringmanufactureengineeringmaintenanceandinstallation", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "engineeringmanufactureengineeringmaintenance", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureengineeringleadership", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureelectricalandelectronicengineering", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureautomotive", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureaerospace", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "engineeringmanufactureaerospace", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "engineeringconstructionwelding(plate)", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionwelding(pipework)", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionsteelerecting", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionrigging(movingloads)", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionprojectcontrol", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionplating", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionpipefitting", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionnondestructivetesting", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringconstructionmechanicalmaintenance", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionmechanicalfitting", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringconstructioninstrumentandcontrol", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructioninstrumentpipefitting", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringconstructionelectricalmaintenance", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionelectricalinstallation", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructiondesignanddraughting", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionconstructionandcompletionscontrol", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringconstructionpipefitter", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "employmentrelatedservices", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "emergencyservicecontacthandling", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "embeddedelectronicsystemsdesignanddevelopmentengineer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 36, "title": "electricalelectronicproductserviceandinstallationengineer", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "electricalpowerprotectionandplantcommissioningengineer", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 30, "title": "electricalpowernetworksengineer", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 60, "title": "electrical/electronictechnicalsupportengineer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 14, "title": "dualfuelsmartmeterinstaller", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "drivinggoodsvehiclesvandriver", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "drivinggoodsvehiclesvandriver", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "drivinggoodsvehiclestransportingfreightbyroad(van)", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "drivinggoodsvehiclestransportingfreightbyroad(rigid)", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "drivinggoodsvehiclestransportingfreightbyroad(articulated/drawbar)", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "drivinggoodsvehiclesrigidvehicledriver", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "drivinggoodsvehiclesrigidvehicledriver", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "drivinggoodsvehiclesmotorcycle/cyclecourier", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "drivinggoodsvehiclesarticulated/drawbardriver", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "drivinggoodsvehiclesarticulated/drawbardriver", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "domesticheatingoil-firedsolidfuelorenvironmentaloptions", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "domesticheatinggas-firedwaterandcentralheatingappliances", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "domesticheatinggas-firedwarmairappliances", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "domesticheating", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "digitalmarketer", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "digitalandtechnologysolutionsprofessional", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "digitallearningdesign", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "digitallearningdesign", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "digitalengineeringtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "designdesignsupport", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "design", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "dentaltechnician", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "dentalpracticemanager", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "dentalnurse", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "dentallaboratoryassistant", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "dataanalyst", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "cybersecuritytechnologist", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "cyberintrusionanalyst", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "customerservicepractitioner", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "customerservice", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "customerservice", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 15, "title": "customerservicespecialist", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "custodialcare", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "custodialcare", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "culturalandheritagevenueoperations", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "culturalandheritagevenueoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "culturalandheritagevenueoperationsculturalheritage", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "culturalandheritagevenueoperationsculturalheritage", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "creditcontroller/collector", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 15, "title": "creativeanddigitalmediainteractivedesignanddevelopment", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 15, "title": "creativeanddigitalmedia", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "creativevenuetechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "courttribunalandprosecutionoperationscourtandtribunaladministration", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "courttribunalandprosecutionoperationscourtandtribunaladministration", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "conveyancingtechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 60, "title": "control/technicalsupportengineer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "contactcentreoperations", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "contactcentreoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "consumerelectricalandelectronicproductsrepairingmodulefaults", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "consumerelectricalandelectronicproductsrepairingcomponentfaults", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "consumerelectricalandelectronicproductsdeliveringandinstalling", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionaltownplanningtechnicalsupport", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionaloccupationalworksupervision", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionalgeomaticsdataanalysis", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionalconstructioncontractingoperations", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionalcivilengineeringfortechnicians", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionalbuiltenvironmentanddesign", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionalbuildingcontrol", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionsteelfixer", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialistwallandfloortiling", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialistwallandfloortiling", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialistthermalinsulation", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialistthermalinsulation", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialiststonemasonry", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialiststonemasonry", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialistroofingoccupations", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialistroofingoccupations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialistplastering", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialistplastering", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialistmasticasphalting", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialistmasticasphalting", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionspecialistinteriorsystems", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "constructionspecialistinsulationandbuildingtreatments", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialistheritageskills", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialistfloorcovering", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionspecialistfittedinteriors", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionspecialistcladdingoccupations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionspecialistappliedwaterproofmembranes", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionspecialistaccessingandrigging", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "constructionsiteengineeringtechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "constructionmanagementsustainability", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "constructionmanagementmanagementquantitysurveyingandcommercialmanagement", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "constructionmanagementfoundationdegreeincivilengineering", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "constructionmanagementfoundationdegreeinbuiltenvironment", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "constructionmanagementfoundationdegreeinarchitecture", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "constructionmanagementfoundationdegreeprofessionalpracticeinconstructionoperationsmanagement", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "constructionmanagementconstructionandbuildingservicesmanagementandsupervision(sustainability)", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "constructionmanagementconstructionsitesupervision", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "constructionmanagementconstructionsitemanagement", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 23, "title": "constructioncivilengineeringtunnellingoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructioncivilengineeringsteelfixing", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructioncivilengineeringspecialistconcreteoccupations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructioncivilengineeringplantoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructioncivilengineeringplantmaintenance", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructioncivilengineeringplantmaintenance", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructioncivilengineeringhighwaysmaintenance", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructioncivilengineeringformworkoccupations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructioncivilengineeringconstructionoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionbuildingwoodmachining", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionbuildingwoodoccupations", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionbuildingwoodoccupations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionbuildingtroweloccupations", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionbuildingtroweloccupations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionbuildingmaintenanceoperations", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionbuildingdecorativefinishingandindustrialpainting", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionbuildingdecorativefinishing", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "compositestechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "compositeengineering", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "compositeengineering", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 15, "title": "compliance/riskofficer", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 16, "title": "communitysportandhealthofficer", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "communitysafetycommunityfiresafety", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "communityenergyspecialist", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "communityartscommunityartsmanagement", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "communityartscommunityartsadministration", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "communityactivatorcoach", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "commischef", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "commercialthermalinsulationoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "commercialprocurementandsupply", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "coachingcoachingtennis", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "coachingcoachingtennis", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "coachingcoachingswimming", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "cleaningandenvironmentalsupportservicespestmanagement", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "cleaningandenvironmentalsupportserviceslocalenvironmentalservices", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "cleaningandenvironmentalsupportservicescleaningandsupportservices", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "cleaningandenvironmentalsupportservicescleaningsupervision", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "civilengineeringtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 66, "title": "civilengineer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 20, "title": "childrenandyoungpeople'sworkforceresidentialchildcare", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 20, "title": "childrenandyoungpeople'sworkforceearlyyearseducator", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "childrenandyoungpeople'sworkforce", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 20, "title": "childrenandyoungpeople'sworkforcechildrenandyoungpeople'ssocialcare", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "chefdepartie", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "charteredsurveyor", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 48, "title": "charteredmanagerdegreeapprenticeship", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 60, "title": "charteredlegalexecutive", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 18, "title": "cateringandprofessionalchefsprofessionalcookery", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "cateringandprofessionalchefspatisserieandconfectionery", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "cateringandprofessionalchefsfoodproductionandcooking", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "cateringandprofessionalchefschefsinthelicensedhospitalityindustry", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "carpentryandjoinery", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "careleadershipandmanagementspecialistadultsocialcare", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "careleadershipandmanagementgeneraladultsocialcare", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 18, "title": "butcher", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "businessandprofessionaladministration", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "businessandadministrationmedicaladministration", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "businessandadministrationmedicaladministration", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "businessandadministrationlegaladministration", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "businessandadministrationlegaladministration", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "businessandadministration", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "businessandadministration", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "businessfiresafetyadvisor", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "businessadministrator", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "busandcoachengineeringtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "busandcoachengineeringmanager", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "buildingservicesengineeringventilationhygienetechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "buildingservicesengineeringtechnologyandprojectmanagementtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "buildingservicesengineeringtechnologyandprojectmanagementdesigntechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "buildingservicesengineeringtechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 48, "title": "buildingservicesengineeringsitemanagement(degree)", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 48, "title": "buildingservicesengineeringserviceandmaintenanceengineer", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "buildingservicesengineeringinstaller", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "buildingservicesengineeringductworkcraftsperson", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "buildingservicesengineeringcraftsperson", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "buildingservicesdesigntechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 66, "title": "buildingservicesdesignengineer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "broadcastproductionassistant", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "broadcasttechnologyhigherapprenticeship-bbcbroadcasttechnology", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 30, "title": "bricklayer", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "boatbuilder", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "bespoketailorandcutter", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "bespokesaddler", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "beautytherapybeautytherapymassage", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "beautytherapybeautytherapymake-up", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "beautytherapybeautytherapymake-up", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "beautytherapybeautytherapygeneral", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "beautytherapybeautytherapygeneral", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "barbering", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "barbering", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "baker", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "aviationoperationsmanager", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "aviationmaintenancemechanic(military)", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "aviationgroundspecialist", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "aviationgroundoperative", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "autocaretechnician", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "associateprojectmanager", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "associateambulancepractitioner", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "assistanttechnicaldirector(visualeffects)", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "assistantaccountant", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "arborist", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 15, "title": "animaltechnologist", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "animalcare", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "animalcare", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "airsideoperator", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "aircraftmaintenancecertifyingengineer", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "agriculture", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "agriculture", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "agricultureagriculturalbusinessmanagement", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 48, "title": "aerospacesoftwaredevelopmentengineer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 48, "title": "aerospaceengineer", "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 36, "title": "advanceddairytechnologist", "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 18, "title": "advancedcreditcontroller/debtcollectionspecialist", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 22, "title": "advancedbutcher", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "advancedclinicalpractitioner", "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 12, "title": "advancedcarpentryandjoinery", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "advancedbaker", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "adultcareworker", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "actuary", "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 24, "title": "actuarialtechnician", "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "activityleadershipoutdoors", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "activityleadershipleadership", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "activityleadershipexerciseandfitness", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "activityleadershipcoaching", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "accounting", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "accounting", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "accountancytaxationprofessional", "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 24, "title": "accidentrepairtechnician", "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "academicprofessional", "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 18, "title": "ableseafarer(deck)", "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}

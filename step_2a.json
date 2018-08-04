@@ -1,0 +1,860 @@
+{"duration": 16, "title": "abattoirworker", "max_funding": 6000.0, "level": 2, "level-detail": NaN}
+{"duration": 18, "title": "ableseafarer(deck)", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "academicprofessional", "max_funding": 9000.0, "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 24, "title": "accidentrepairtechnician", "max_funding": 12000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "accountancy/taxationprofessional", "max_funding": 21000.0, "level": 7, "level-detail": NaN}
+{"duration": 24, "title": "actuarialtechnician", "max_funding": 15000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 36, "title": "actuary", "max_funding": 18000.0, "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 12, "title": "adultcareworker", "max_funding": 3000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "advancedbaker", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "advancedbutcher", "max_funding": 12000.0, "level": 3, "level-detail": NaN}
+{"duration": 12, "title": "advancedcarpentryandjoinery", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "advancedclinicalpractitioner(degree)", "max_funding": 12000.0, "level": 7, "level-detail": NaN}
+{"duration": 18, "title": "advancedcreditcontroller/debtcollectionspecialist", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "advanceddairytechnologist", "max_funding": 27000.0, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 48, "title": "aerospaceengineer(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 48, "title": "aerospacesoftwaredevelopmentengineer(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 48, "title": "aircraftmaintenancecertifyingengineer", "max_funding": 24000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "airsideoperator", "max_funding": 3000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 13, "title": "ambulancesupportworker(emergencyurgentandnon-urgent)", "max_funding": 7000.0, "level": 3, "level-detail": NaN}
+{"duration": 24, "title": "animaltechnologist", "max_funding": 6000.0, "level": 3, "level-detail": NaN}
+{"duration": 24, "title": "arborist", "max_funding": 15000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "architect(degree)", "max_funding": 21000.0, "level": 7, "level-detail": NaN}
+{"duration": 48, "title": "architecturalassistant(degree)", "max_funding": 21000.0, "level": 6, "level-detail": NaN}
+{"duration": 24, "title": "asbestosanalyst/surveyor", "max_funding": 6000.0, "level": 3, "level-detail": NaN}
+{"duration": 18, "title": "assistantaccountant", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "assistanttechnicaldirector(visualeffects)", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "associateambulancepractitioner", "max_funding": 15000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "associateprojectmanager", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 30, "title": "autocaretechnician", "max_funding": 12000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "automotiveglazingtechnician", "max_funding": 9000.0, "level": 3, "level-detail": NaN}
+{"duration": 12, "title": "aviationgroundoperative", "max_funding": 3000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "aviationgroundspecialist", "max_funding": 3000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "aviationmaintenancemechanic(military)", "max_funding": 12000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "aviationoperationsmanager", "max_funding": 5000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "baker", "max_funding": 9000.0, "level": 2, "level-detail": NaN}
+{"duration": 24, "title": "bespokesaddler", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "bespoketailorandcutter", "max_funding": 15000.0, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 48, "title": "boatbuilder", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "brewer", "max_funding": 9000.0, "level": 4, "level-detail": NaN}
+{"duration": 30, "title": "bricklayer", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "broadcastproductionassistant", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "buildingservicesdesignengineer(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 36, "title": "buildingservicesdesigntechnician", "max_funding": 12000.0, "level": 3, "level-detail": NaN}
+{"duration": 36, "title": "buildingservicesengineeringcraftsperson", "max_funding": 18000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 48, "title": "buildingservicesengineeringductworkcraftsperson", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "buildingservicesengineeringductworkinstaller", "max_funding": 15000.0, "level": 2, "level-detail": NaN}
+{"duration": 24, "title": "buildingservicesengineeringinstaller", "max_funding": 12000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "buildingservicesengineeringserviceandmaintenanceengineer", "max_funding": 18000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 48, "title": "buildingservicesengineeringsitemanagement(degree)", "max_funding": 18000.0, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 36, "title": "buildingservicesengineeringtechnician", "max_funding": 12000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "buildingservicesengineeringventilationhygienetechnician", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "busandcoachengineeringtechnician", "max_funding": 18000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "businessadministrator", "max_funding": 5000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "businessfiresafetyadvisor", "max_funding": 2500.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "businesstobusinesssalesprofessional(degree)", "max_funding": 21000.0, "level": 6, "level-detail": NaN}
+{"duration": 18, "title": "butcher", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "cabincrew", "max_funding": 5000.0, "level": 3, "level-detail": NaN}
+{"duration": 18, "title": "carpentryandjoinery", "max_funding": 12000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 60, "title": "charteredlegalexecutive", "max_funding": 12000.0, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 48, "title": "charteredmanager(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 60, "title": "charteredsurveyor(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 12, "title": "chefdepartie", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "childrenyoungpeople&familiesmanager", "max_funding": 6000.0, "level": 5, "level-detail": NaN}
+{"duration": 24, "title": "childrenyoungpeople&familiespractitioner", "max_funding": 6000.0, "level": 4, "level-detail": NaN}
+{"duration": 66, "title": "civilengineer(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 36, "title": "civilengineeringsitemanagement(degree)", "max_funding": 18000.0, "level": 6, "level-detail": NaN}
+{"duration": 36, "title": "civilengineeringtechnician", "max_funding": 12000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "clinicaltrialsspecialist(degree)", "max_funding": 26000.0, "level": 6, "level-detail": NaN}
+{"duration": 24, "title": "commercialprocurementandsupply(formerlypublicsectorcommercialprofessional)", "max_funding": 9000.0, "level": 4, "level-detail": NaN}
+{"duration": 18, "title": "commercialthermalinsulationoperative", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "commischef", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "communityactivatorcoach", "max_funding": 6000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "communityenergyspecialist", "max_funding": 6000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 16, "title": "communitysportandhealthofficer", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "compliance/riskofficer", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "compositestechnician", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "constructionsiteengineeringtechnician", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 60, "title": "control/technicalsupportengineer(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 12, "title": "conveyancingtechnician", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "creativevenuetechnician", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "creditcontroller/collector", "max_funding": 5000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "croptechnician", "max_funding": 15000.0, "level": 3, "level-detail": NaN}
+{"duration": 12, "title": "custody&detentionofficer", "max_funding": 3500.0, "level": 3, "level-detail": NaN}
+{"duration": 12, "title": "customerservicepractitioner", "max_funding": 4000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 15, "title": "customerservicespecialist", "max_funding": 4000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "cyberintrusionanalyst", "max_funding": 18000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "cybersecuritytechnologist", "max_funding": 18000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "dataanalyst", "max_funding": 15000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "dentallaboratoryassistant", "max_funding": 5000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "dentalnurse", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "dentalpracticemanager", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 36, "title": "dentaltechnician", "max_funding": 18000.0, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 36, "title": "digitalandtechnologysolutionsprofessional(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 36, "title": "digitalengineeringtechnician", "max_funding": 21000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "digitalmarketer", "max_funding": 12000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "digitalmarketer(degree)", "max_funding": 21000.0, "level": 6, "level-detail": NaN}
+{"duration": 14, "title": "dualfuelsmartmeterinstaller", "max_funding": 12000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 60, "title": "electrical/electronictechnicalsupportengineer(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 30, "title": "electricalpowernetworksengineer", "max_funding": 27000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 36, "title": "electricalpowerprotectionandplantcommissioningengineer", "max_funding": 27000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 36, "title": "electricalelectronicproductserviceandinstallationengineer", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "embeddedelectronicsystemsdesignanddevelopmentengineer(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 12, "title": "emergencyservicecontacthandling", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionpipefitter", "max_funding": 21000.0, "level": 3, "level-detail": NaN}
+{"duration": 42, "title": "engineeringdesignanddraughtsperson", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringtechnician", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "equinegroom", "max_funding": 5000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "eventassistant", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "facilitiesmanagementsupervisor", "max_funding": 4000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "facilitiesmanager", "max_funding": 6000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "financialadviser", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "financialservicesadministrator", "max_funding": 12000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "financialservicescustomeradviser", "max_funding": 4000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "financialservicesprofessional", "max_funding": 18000.0, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 36, "title": "fireemergencyandsecuritysystemstechnician", "max_funding": 18000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "fishmonger", "max_funding": 12000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 60, "title": "foodanddrinkadvancedengineer(degree)", "max_funding": 24000.0, "level": 6, "level-detail": NaN}
+{"duration": 30, "title": "foodanddrinkadvancedprocessoperator", "max_funding": 9000.0, "level": 3, "level-detail": NaN}
+{"duration": 42, "title": "foodanddrinkmaintenanceengineer", "max_funding": 27000.0, "level": 3, "level-detail": NaN}
+{"duration": 18, "title": "foodanddrinkprocessoperator", "max_funding": 5000.0, "level": 2, "level-detail": NaN}
+{"duration": 48, "title": "foodindustrytechnicalprofessional(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 24, "title": "foodtechnologist", "max_funding": 18000.0, "level": 3, "level-detail": NaN}
+{"duration": 12, "title": "footwearmanufacturer", "max_funding": 5000.0, "level": 2, "level-detail": NaN}
+{"duration": 24, "title": "forestoperative", "max_funding": 12000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furnituremanufacturer", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "gasengineering", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 48, "title": "gasnetworkcraftsperson", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "gasnetworkteamleader", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 60, "title": "geospatialmappingandscience(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 24, "title": "geospatialsurveytechnician", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "golfgreenkeeper", "max_funding": 6000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "hairprofessional", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "healthcareassistantpractitioner", "max_funding": 12000.0, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "healthcarescienceassistant", "max_funding": 5000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "healthcarescienceassociate", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 36, "title": "healthcaresciencepractitioner(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 12, "title": "healthcaresupportworker", "max_funding": 3000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "heavyvehicleserviceandmaintenancetechnician", "max_funding": 18000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "highspeedrail&infrastructuretechnician", "max_funding": 21000.0, "level": 4, "level-detail": NaN}
+{"duration": 24, "title": "highwayelectricalmaintenanceandinstallationoperative", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "highwayselectrician/serviceoperative", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "hmforcesserviceperson(publicservices)", "max_funding": 2500.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "horticultureandlandscapeoperative", "max_funding": 5000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "hospitalitymanager", "max_funding": 6000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "hospitalitysupervisor", "max_funding": 5000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "hospitalityteammember", "max_funding": 5000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "housing/propertymanagementassistant", "max_funding": 3000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "housing/propertymanagement", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "hrconsultant/partner", "max_funding": 9000.0, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 18, "title": "hrsupport", "max_funding": 5000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 14, "title": "improvementpractitioner", "max_funding": 6000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 14, "title": "improvementtechnician", "max_funding": 4000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "industrialthermalinsulationtechnician", "max_funding": 12000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "infrastructuretechnician", "max_funding": 15000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "installationelectrician/maintenanceelectrician", "max_funding": 18000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "insurancepractitioner", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "insuranceprofessional", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "internalauditpractitioner", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "internationalfreightforwardingspecialist", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "investmentoperationsadministrator", "max_funding": 5000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "investmentoperationsspecialist", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "investmentoperationstechnician", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "isbusinessanalyst", "max_funding": 18000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "ittechnicalsalesperson", "max_funding": 12000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "junior2dartist(visualeffects)", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "juniorcontentproducer", "max_funding": 12000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "juniorenergymanager", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "juniorestateagent", "max_funding": 4000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "juniorjournalist", "max_funding": 12000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "juniormanagementconsultant", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 60, "title": "laboratoryscientist", "max_funding": 27000.0, "level": 5, "level-detail": NaN}
+{"duration": 60, "title": "laboratoryscientist(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 18, "title": "laboratorytechnician", "max_funding": 21000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "land-basedserviceengineer", "max_funding": 18000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "land-basedserviceengineeringtechnician", "max_funding": 21000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "largegoodsvehicle(lgv)driver", "max_funding": 5000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "leadadultcareworker", "max_funding": 3000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "leisure&entertainmentengineeringtechnician", "max_funding": 21000.0, "level": 3, "level-detail": NaN}
+{"duration": 18, "title": "leisuredutymanager", "max_funding": 5000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "licensedconveyancer", "max_funding": 9000.0, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 18, "title": "liftingtechnician", "max_funding": 15000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "liveeventrigger", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "maintenanceandoperationsengineeringtechnician", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "manufacturingengineer(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 48, "title": "marineengineer", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 30, "title": "marinepilot", "max_funding": 18000.0, "level": 5, "level-detail": NaN}
+{"duration": 24, "title": "maritimecaterer", "max_funding": 6000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "metrologytechnician", "max_funding": 24000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "militaryconstructionengineeringtechnician", "max_funding": 5000.0, "level": 3, "level-detail": NaN}
+{"duration": 18, "title": "mineralprocessingmobileandstaticplantoperator", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "mortgageadviser", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "motorfinancespecialist", "max_funding": 6000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "motorvehicleserviceandmaintenancetechnician(lightvehicle)", "max_funding": 18000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "networkengineer", "max_funding": 18000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "networkoperations", "max_funding": 3000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "non-destructivetesting(ndt)operator", "max_funding": 12000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 48, "title": "non-destructivetestingengineer(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 36, "title": "non-destructivetestingengineeringtechnician", "max_funding": 18000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "nuclearhealthphysicsmonitor", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "nuclearoperative", "max_funding": 15000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "nuclearscientistandnuclearengineer(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 30, "title": "nucleartechnician", "max_funding": 21000.0, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 48, "title": "nuclearweldinginspectiontechnician", "max_funding": 27000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "nursingassociate", "max_funding": 15000.0, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 48, "title": "operatingdepartmentpractitioner(degree)", "max_funding": 24000.0, "level": 6, "level-detail": NaN}
+{"duration": 24, "title": "operationalfirefighter", "max_funding": 12000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 30, "title": "operations/departmentalmanager", "max_funding": 9000.0, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "opticalassistant", "max_funding": 5000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "organbuilder", "max_funding": 24000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "outsidebroadcastingengineer(degree)", "max_funding": 9000.0, "level": 7, "level-detail": NaN}
+{"duration": 48, "title": "packagingprofessional(degree)", "max_funding": 24000.0, "level": 6, "level-detail": NaN}
+{"duration": 36, "title": "painteranddecorator", "max_funding": 9000.0, "level": 2, "level-detail": NaN}
+{"duration": 36, "title": "papermaker", "max_funding": 6000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "paralegal", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "paraplanner", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "passengertransportdriver-buscoachandrail", "max_funding": 6000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "passengertransportonboard&stationteammember", "max_funding": 6000.0, "level": 2, "level-detail": NaN}
+{"duration": 18, "title": "passengertransportoperationsmanager", "max_funding": 12000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "payrolladministrator", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "pestcontroltechnician", "max_funding": 4000.0, "level": 2, "level-detail": NaN}
+{"duration": 18, "title": "pilingattendant", "max_funding": 15000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "plasterer", "max_funding": 10000.0, "level": 3, "level-detail": NaN}
+{"duration": 48, "title": "plumbinganddomesticheatingtechnician", "max_funding": 21000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 48, "title": "podiatrist(degree)", "max_funding": 24000.0, "level": 6, "level-detail": NaN}
+{"duration": 12, "title": "policecommunitysupportofficer", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 36, "title": "policeconstable(degree)", "max_funding": 24000.0, "level": 6, "level-detail": NaN}
+{"duration": 24, "title": "policyofficer", "max_funding": 6000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "portmarineoperationsofficer", "max_funding": 12000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 30, "title": "postgraduateengineer(degree)", "max_funding": 27000.0, "level": 7, "level-detail": NaN}
+{"duration": 12, "title": "poultryworker", "max_funding": 5000.0, "level": 2, "level-detail": NaN}
+{"duration": 60, "title": "powerengineer(degree)", "max_funding": 27000.0, "level": 7, "level-detail": NaN}
+{"duration": 30, "title": "powernetworkcraftsperson", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "probatetechnician", "max_funding": 5000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 60, "title": "processautomationengineer(degree)", "max_funding": 27000.0, "level": 7, "level-detail": NaN}
+{"duration": 60, "title": "productdesignanddevelopmentengineer(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 18, "title": "professionalaccountingtaxationtechnician", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 42, "title": "projectcontrolstechnician", "max_funding": 21000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 48, "title": "projectmanager(degree)", "max_funding": 22000.0, "level": 6, "level-detail": NaN}
+{"duration": 12, "title": "propertymaintenanceoperative", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "publicrelationsassistant", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "publicserviceoperationaldeliveryofficer", "max_funding": 3000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "publishingassistant", "max_funding": 6000.0, "level": 3, "level-detail": NaN}
+{"duration": 48, "title": "rail&railsystemsprincipalengineer(degree)", "max_funding": 24000.0, "level": 7, "level-detail": NaN}
+{"duration": 36, "title": "rail&railsystemsseniorengineer(degree)", "max_funding": 24000.0, "level": 6, "level-detail": NaN}
+{"duration": 48, "title": "railengineeringadvancedtechnician", "max_funding": 27000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "railengineeringoperative", "max_funding": 12000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "railengineeringtechnician", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "railinfrastructureoperator", "max_funding": 12000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "railwayengineeringdesigntechnician", "max_funding": 18000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "recruitmentconsultant", "max_funding": 5000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "recruitmentresourcer", "max_funding": 5000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "refrigerationairconditioningandheatpumpengineeringtechnician", "max_funding": 18000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 48, "title": "registerednurse(degree)", "max_funding": 27000.0, "level": 6, "level-detail": NaN}
+{"duration": 24, "title": "regulatorycomplianceofficer", "max_funding": 6000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "rehabilitationworker(visualimpairment)", "max_funding": 12000.0, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 48, "title": "relationshipmanager(banking)", "max_funding": 27000.0, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 18, "title": "retailmanager", "max_funding": 6000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "retailteamleader", "max_funding": 5000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "retailer", "max_funding": 5000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "roadtransportengineeringmanager", "max_funding": 9000.0, "level": 4, "level-detail": NaN}
+{"duration": 24, "title": "safetyhealthandenvironmenttechnician", "max_funding": 5000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "scaffolder", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "schoolbusinessprofessional", "max_funding": 6000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 36, "title": "scienceindustrymaintenancetechnician", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "scienceindustryprocess/plantengineer(degree)", "max_funding": 24000.0, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 18, "title": "sciencemanufacturingprocessoperative", "max_funding": 6000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "sciencemanufacturingtechnician", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "senior/headoffacilitiesmanagement(degree)", "max_funding": 18000.0, "level": 6, "level-detail": NaN}
+{"duration": 12, "title": "seniorchefproductioncooking", "max_funding": 5000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "seniorcompliance/riskspecialist", "max_funding": 27000.0, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "seniorfinancialservicescustomeradviser", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "seniorhealthcaresupportworker", "max_funding": 3000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "seniorhousing/propertymanagement", "max_funding": 9000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 36, "title": "seniorinsuranceprofessional", "max_funding": 21000.0, "level": 6, "level-detail": NaN}
+{"duration": 18, "title": "seniorinvestment/commercialbankingprofessional", "max_funding": 18000.0, "level": 7, "level-detail": NaN}
+{"duration": 24, "title": "seniorleadermaster'sdegreeapprenticeship(degree)", "max_funding": 18000.0, "level": 7, "level-detail": NaN}
+{"duration": 24, "title": "softwaredeveloper", "max_funding": 18000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "softwaredevelopmenttechnician", "max_funding": 15000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "softwaretester", "max_funding": 18000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 60, "title": "solicitor", "max_funding": 27000.0, "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 24, "title": "spectaclemaker", "max_funding": 4000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "sportsturfoperative", "max_funding": 5000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "steelfixer", "max_funding": 12000.0, "level": 2, "level-detail": NaN}
+{"duration": 12, "title": "supplychainoperator", "max_funding": 3000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "supplychainpractitioner(fastmovingconsumergoods)[previouslyoperator/manager]", "max_funding": 15000.0, "level": 3, "level-detail": NaN}
+{"duration": 12, "title": "supplychainwarehouseoperative", "max_funding": 3000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "surveyingtechnician", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "survivalequipmentfitter", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "systemsengineeringmasterslevel", "max_funding": 27000.0, "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 12, "title": "teacher", "max_funding": 9000.0, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 18, "title": "teachingassistant", "max_funding": 5000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "teamleader/supervisor", "max_funding": 5000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "textilecareoperative", "max_funding": 4000.0, "level": 2, "level-detail": NaN}
+{"duration": 18, "title": "textilemanufacturingoperative", "max_funding": 4000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "tradesupplier", "max_funding": 4000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "traindriver", "max_funding": 21000.0, "level": 3, "level-detail": NaN}
+{"duration": 36, "title": "transportplanningtechnician", "max_funding": 12000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "travelconsultant", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "tunnellingoperative", "max_funding": 12000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "unifiedcommunicationstechnician", "max_funding": 15000.0, "level": 3, "level-detail": NaN}
+{"duration": 24, "title": "unifiedcommunicationstroubleshooter", "max_funding": 18000.0, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 48, "title": "utilitiesengineeringtechnician", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "watchmaker", "max_funding": 27000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 48, "title": "waterprocesstechnician", "max_funding": 12000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "welding-level2", "max_funding": 9000.0, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 38, "title": "welding-level3", "max_funding": 12000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "workplacepensions(administratororconsultant)", "max_funding": 9000.0, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "youthwork", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "youthwork", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "warehousingandstoragewarehouseoperative", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "warehousingandstorageseniorwarehouseperson/teamleader", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "veterinarynursingsmallanimal", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "veterinarynursingequine", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "vehiclesales", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclesales", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclerestoration", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclerestoration", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehicleparts", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehicleparts", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepairmotorcycle", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclemaintenanceandrepairmotorcycle", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepairlightvehicle", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclemaintenanceandrepairlightvehicle", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepairlifttruck", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclemaintenanceandrepairlifttruck", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "vehiclemaintenanceandrepairheavyvehicletrailer", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepairheavyvehicle", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclemaintenanceandrepairheavyvehicle", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepaircaravanandmotorhome", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepaircaravanandmotorhome", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclemaintenanceandrepairautoelectrics/mobileelectrics", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclemaintenanceandrepairautoelectrics/mobileelectrics", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "vehiclefittingspecialisttyrefitting", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclefittingfastfit", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclefittingfastfit", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "vehiclebodyandpaintwindscreenrepair", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "vehiclebodyandpaintvehicledamageassessment", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "vehiclebodyandpaintmechanicalelectricalandtrim", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclebodyandpaintmechanicalelectricalandtrim", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclebodyandpaintbodyrepair", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclebodyandpaintbodyrepair", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclebodyandpaintbodyrefinishing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclebodyandpaintbodyrefinishing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclebodyandpaintbodybuilding", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "vehiclebodyandpaintbodybuilding", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "vehiclebodyandpaintautomotiveglazing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "unifiedcommunicationstechnician", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 20, "title": "treesandtimber", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "treesandtimber", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "trafficofficetrafficofficemanager", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "trafficofficetrafficofficeclerk", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "tradebusinessservices", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 20, "title": "thewaterindustrywaterindustry", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 16, "title": "thewaterindustrywaterindustry", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "thewaterindustryutilitiesnetworkplanningandmanagement", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "thewaterindustrysewerageoperationsandmaintenance", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "thegasindustrynetworkconstructionoperations(gas)", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "thegasindustrygasheatingandenergyefficiency", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "thegasindustrygasfiredwetcentralheating", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "technicaltheatrelightingsoundandstagestage", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "technicaltheatrelightingsoundandstagestage", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "technicaltheatrelightingsoundandstagesound", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "technicaltheatrelightingsoundandstagesound", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "technicaltheatrelightingsoundandstagelighting", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "technicaltheatrelightingsoundandstagelighting", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "sustainableresourceoperationsandmanagement", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 30, "title": "sustainableresourcemanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 22, "title": "sustainableresourcemanagement", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "supportingteachingandlearninginschools", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "supportingteachingandlearninginschools", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "supportingteachingandlearninginphysicaleducationandschoolsport", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "supplychainmanagementsupplychainspecialist", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "supplychainmanagementsupplychainoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "supplychainmanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "supplychainmanagementinternationalsupplychainmanager", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 18, "title": "sportsdevelopmentsportsdevelopment", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "sportingexcellencesportingexcellencepathwaytwo", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "sportingexcellencesportingexcellencepathwayone", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "spectatorsafety", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "spectatorsafetyadvancedspectatorsafety", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "socialmediaanddigitalmarketingsocialmedia", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "socialmediaanddigitalmarketingdigitalmarketing", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "socialmediaanddigitalmarketingdigitalmarketing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "signmakingsignmaker/technician", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "signmakingsignmaker/installer", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "senior/headoffacilitiesmanagement", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "seniorleadermaster'sdegreeapprenticeship", "max_funding": NaN, "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 42, "title": "seniorinsuranceprofessional", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "securitysystems", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "securitysystems", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "salesandtelesales", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "salesandtelesales", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 15, "title": "retailvisualmerchandising", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "retailsalesprofessional", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 48, "title": "registerednurse", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "refrigerationandairconditioningrefrigerationserviceandmaintenance", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "refrigerationandairconditioningrefrigeration", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "refrigerationandairconditioningrefrigeration", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "refrigerationandairconditioningairconditioningserviceandmaintenance", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "refrigerationandairconditioningairconditioning", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "refrigerationandairconditioningairconditioning", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "recruitmentrecruitmentresourcing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "recruitment", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "recruitment", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "railservicessignaloperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "railservicesshunting", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "railservicesrailsupervision", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "railservicespassengerservices", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "railservicesdriving", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "railservicescontrolroomoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "railinfrastructureengineeringtrackmaintenance", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "railinfrastructureengineeringtrack", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "railinfrastructureengineeringtelecoms", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "railinfrastructureengineeringsignalling", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "railinfrastructureengineeringelectrificationmaintenance", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "railinfrastructureengineeringelectrification", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "publicrelations", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "providingsecurityservices", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicespensionsadministration", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "providingfinancialserviceslifepensionsandinvestments", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialserviceslifepensionsandinvestments", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicesinvestmentoperations", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicesinvestmentoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicesgeneralinsurance", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicesgeneralinsurance", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicesfinancingandcredit", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicesfinancingandcredit", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicesdebtcollections", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicesdebtcollections", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicescustomerpaymentsforfinancialproductsandservices", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicescustomerpaymentsforfinancialproductsandservices", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicesbanking", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicesbanking", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "providingfinancialservicesadministrationformortgageand/orfinancialplanningintermediaries", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "providingfinancialservicesadministrationformortgageand/orfinancialplanningintermediaries", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "propertyservicessaleofresidentialproperty", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "propertyservicessaleofresidentialproperty", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "propertyservicesresidentiallettingandmanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "propertyservicesresidentiallettingandmanagement", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "projectmanagement", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "professionalservicestax", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "professionalservicesmanagementconsulting", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "professionalservicesmanagementaccounting", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "professionalservicesaudit", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 60, "title": "productdesignanddevelopmentengineer", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "processmanufacturingprocessoperator/technician", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "processmanufacturingprocessoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "processmanufacturingprocessengineeringmaintenance", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "processmanufacturingprocessengineeringmaintenance", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "processmanufacturingdownstreamoperations", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "processautomationengineer", "max_funding": NaN, "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 12, "title": "printandprintedpackagingreprographics", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "printandprintedpackagingprintfinishing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "printandprintedpackagingprintfinishing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "printandprintedpackagingprintadministrationandmanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "printandprintedpackagingprintadministration", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "printandprintedpackagingpre-press", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "printandprintedpackagingmachineprinting", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "printandprintedpackagingmachineprinting", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "printandprintedpackagingdigitalpre-press", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "printandprintedpackagingcartonmanufacture", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "powerengineer", "max_funding": NaN, "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 30, "title": "postgraduateengineer", "max_funding": NaN, "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 14, "title": "policingdefencepolicing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "policeconstable", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "plumbingandheatingplumbing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "plumbingandheatingdomesticplumbingandheatingoil-firedsolidfuelorenvironmentaloptions", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "plumbingandheatingdomesticplumbingandheatinggas-firedwaterandcentralheatingappliances", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "plumbingandheatingdomesticplumbingandheatinggas-firedwarmairappliance", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "playwork", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "playwork", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "photoimaging", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "passengertransportonboardandstationteammember", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "passengercarryingvehicledriving(busandcoach)busandcoach", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "outsidebroadcastingengineer", "max_funding": NaN, "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 18, "title": "outdoorprogrammes", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "operationsandqualityimprovementbusiness-improvementtechniques", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "nursingassistantsinaveterinaryenvironment", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "nuclearscientistandnuclearengineer", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 48, "title": "non-destructivetestingengineer", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "nailservices", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "nailservices", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "mineralproductstechnologytechnicalandmanagerialdevelopmentinmineralproductstechnologyindustry", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "mineralproductstechnologytechnicalandmanagement", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 18, "title": "marketing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "marketing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "maritimeoccupationsworkboatoperation", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "maritimeoccupationsseafishing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "maritimeoccupationsriversinlandwaterwaysandlimiteddistancestosea", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 15, "title": "maritimeoccupationsportoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "maritimeoccupationsofficerofthewatchonmerchantvesselsoflessthan500grosstonnage-nearcoastal", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "maritimeoccupationsofficerofthewatchonmerchantvesselsoflessthan3000grosstonnage-nearcoastal", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "maritimeoccupationsmerchantnavy(engineering)", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "maritimeoccupationsmerchantnavy(deck)", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "maritimeoccupationsmarinasandboatyards", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "maritimeoccupationsableseafarer/tugrating-engineroom", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 60, "title": "manufacturingengineer", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "manufacturingengineeringwindgeneration", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringspaceengineering", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringrailengineering", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringnuclearrelatedtechnology", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringmechanical", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringmarine", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringmaintenance", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringelectrical/electronics", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringautomotive", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "manufacturingengineeringaerospace", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "managementteamleading(construction)", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "managementteamleading", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "management", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "management", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "managementleadershipandmanagement", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "logisticsoperationslogisticssupportoperative", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "logisticsoperationslogisticsoperative", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "logisticsoperationslogisticsoperationsteamleader/sectionsupervisor", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "liveeventsandpromotion", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "liveeventsandpromotion", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalsprocessdevelopmenttechnician", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalslifesciencetechnologist", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalslifesciencetechnician", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalshealthcaresciencetechnologist", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalshealthcaresciencetechnician", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalsfoodsciencetechnologist", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalschemicalsciencetechnologist", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "lifescienceandchemicalscienceprofessionalschemicalsciencetechnician", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "licensedhospitalitylicensedhospitalitymanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "licensedhospitality", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "librariesarchivesrecordsandinformationmanagementservices", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "librariesarchivesrecordsandinformationmanagementservices", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "leisureandentertainmentmaintenanceengineeringtechnician", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "leisureoperationsandleisuremanagementleisureoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "leisureoperationsandleisuremanagementleisuremanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "leisuremanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "legalservicesproperty", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "legalservicesprivateclientpractice", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "legalservicespersonalinjury", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "legalservicesparalegalpractice", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "legalservicesfamilypractice", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "legalservicesemploymentpractice", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "legalservicesdebtrecoveryandinsolvency", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "legalservicescommerciallitigation", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "legalservicescivillitigation", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "learninganddevelopment", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "land-basedengineering", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "land-basedengineering", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 60, "title": "laboratoryscientist-level5", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 60, "title": "laboratoryscientist-level6", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "jewellerysilversmithingandalliedtradessilversmithing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "jewellerysilversmithingandalliedtradespreciousmetalcad/cam", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "jewellerysilversmithingandalliedtradesjewellerymanufacturing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "jewellerysilversmithingandalliedtradesjewellerymanufacturing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "internationaltradeandlogisticsoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "intelligenceoperations", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "improvingoperationalperformanceperformingmanufacturingoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "improvingoperationalperformanceperformingengineeringoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "improvingoperationalperformancebusiness-improvementtechniques", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "itsoftwarewebandtelecomsprofessionals", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "itsoftwarewebandtelecomsprofessionals", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "itsoftwarewebandtelecomsprofessionals", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "itapplicationspecialist", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "itapplicationspecialist", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "humanresourcemanagement", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "hospitalitymanagement", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "horticulture", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 20, "title": "horticulture", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "highspeedrailandinfrastructuretechnician", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "heatingandventilatingservicingandmaintaininghandvsystems", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "heatingandventilatingservicingandmaintaininghandvsystems", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "heatingandventilatingpipeworksystems", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "heatingandventilatingpipeworksystems", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "heatingandventilatingductworksystems", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "heatingandventilatingductworksystems", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "healthcaresciencepractitioner", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 18, "title": "healthpharmacyservices", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "healthpharmacyservices", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "healthopticalretail", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "healthopticalretail", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "healthhealthcaresupportservices", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "healthhealthcaresupportservices", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "healthemergencycare", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "hairdressing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "hairdressing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "hmforces", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "glassindustryphotovoltaicsinstallation", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryglazing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "glassindustryglazing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryglassrelateddistributionandwarehousing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "glassindustryglassrelateddistributionandwarehousing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryglassprocessor", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "glassindustryglassprocessing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryglassmanufacturing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "glassindustryflatglassmanufacture", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryfenestrationsurveyor", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "glassindustryfenestrationinstallation", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "glassindustryfenestrationinstallation", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryfabricationofglasssupportingstructures", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "glassindustryfabricationofglasssupportingstructures", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "glassindustrydomesticfasciasoffitandbargeboardinstallation", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "glassindustrycurtainwallinstallation", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "glassindustryautomotiveglazing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "geospatialmappingandsciencedegree", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "gameandwildlifemanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "gameandwildlifemanagement", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingwoodmachining", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingwoodmachining", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingupholsteryandsoftfurnishings", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingupholsteryandsoftfurnishings", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingsupervisioninthefurniturefurnishingsandinteriorsindustry", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingsolidsurfaces", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingrestoringfurniture", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingrestoringfurniture", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingfurnitureandwoodprocessing-cncmachining", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingfurnitureandwoodprocessing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingfurnituremaking", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingfurnituremaking", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingfurnituredesign", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingfittedfurnitureandinteriors", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingfittedfurnitureandinteriors", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "furniturefurnishingsandinteriorsmanufacturingfinishingfurniture", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "furniturefurnishingsandinteriorsmanufacturingfinishingfurniture", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "funeraloperationsandservices", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "funeraloperationsandservices", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "foodtechnologist", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 30, "title": "foodanddrinkprocessoperator", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "foodanddrinkmaintenanceengineer", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "foodanddrinkadvancedprocessoperator", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "foodanddrinkfishandshellfishindustryskills", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "foodanddrinkbrewingindustryskills", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 60, "title": "foodanddrinkadvancedengineer", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 48, "title": "foodindustrytechnicalprofessional", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "floristry", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "floristry", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "fencingfencingsupervision", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "fencing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fashionandtextilestextiles", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "fashionandtextilestextiles", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fashionandtextilestailoring", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "fashionandtextilessaddlery", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fashionandtextilesleathergoods", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "fashionandtextilesleathergoods", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fashionandtextilesleatherproduction", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "fashionandtextilesleatherproduction", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fashionandtextilesfootwear", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "fashionandtextilesfootwear", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "fashionandtextilesapparel", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "fashionandtextilesapparel", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 50, "title": "farriery", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "facilitiesmanagementgeneric", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "facilitiesmanagementgeneric", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "facilitiesmanagementfacilitiesservices", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "facilitiesmanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "facilitiesmanagementbuildingservices", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 18, "title": "exerciseandfitnesspersonaltraining", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "exerciseandfitness", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "equineracehorsecareandmanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "equineracehorsecare", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "equinehorsecareandmanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "equinehorsecare", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "equineharnesshorsecareandmanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "equineharnesshorsecare", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "environmentalconservation", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "environmentalconservation", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "environmentalconservationdrystonewalling", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "environmentalconservationdrystonewalling", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "engineeringmanufacturemechanicalmanufacturingengineering", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "engineeringmanufacturemechanicalmanufacturingengineering", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "engineeringmanufacturematerialsprocessingandfinishing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "engineeringmanufacturematerialsprocessingandfinishing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "engineeringmanufacturemarine(yachtandboatbuildingmaintenanceandrepair)", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "engineeringmanufacturemarine(shipyachtboatbuildingmaintenanceandrepair)", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "engineeringmanufacturemarine(shipbuildingmaintenanceandrepair)", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureinstallationandcommissioning", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufacturefabricationandwelding", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "engineeringmanufacturefabricationandwelding", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "engineeringmanufactureengineeringwoodworkingpatternandmodelmaking", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureengineeringtoolmaking", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureengineeringtechnicalsupport", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "engineeringmanufactureengineeringtechnicalsupport", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "engineeringmanufactureengineeringmaintenanceandinstallation", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 42, "title": "engineeringmanufactureengineeringmaintenance", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureengineeringleadership", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureelectricalandelectronicengineering", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureautomotive", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringmanufactureaerospace", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "engineeringmanufactureaerospace", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "engineeringconstructionwelding(plate)", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionwelding(pipework)", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionsteelerecting", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionrigging(movingloads)", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionprojectcontrol", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionplating", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionpipefitting", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionnondestructivetesting", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringconstructionmechanicalmaintenance", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionmechanicalfitting", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringconstructioninstrumentandcontrol", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructioninstrumentpipefitting", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringconstructionelectricalmaintenance", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionelectricalinstallation", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructiondesignanddraughting", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "engineeringconstructionconstructionandcompletionscontrol", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "engineeringconstructionpipefitter", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "employmentrelatedservices", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "embeddedelectronicsystemsdesignanddevelopmentengineer", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 60, "title": "electrical/electronictechnicalsupportengineer", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "drivinggoodsvehiclesvandriver", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "drivinggoodsvehiclesvandriver", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "drivinggoodsvehiclestransportingfreightbyroad(van)", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "drivinggoodsvehiclestransportingfreightbyroad(rigid)", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "drivinggoodsvehiclestransportingfreightbyroad(articulated/drawbar)", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "drivinggoodsvehiclesrigidvehicledriver", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "drivinggoodsvehiclesrigidvehicledriver", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "drivinggoodsvehiclesmotorcycle/cyclecourier", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "drivinggoodsvehiclesarticulated/drawbardriver", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "drivinggoodsvehiclesarticulated/drawbardriver", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "domesticheatingoil-firedsolidfuelorenvironmentaloptions", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "domesticheatinggas-firedwaterandcentralheatingappliances", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "domesticheatinggas-firedwarmairappliances", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "domesticheating", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "digitalandtechnologysolutionsprofessional", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 24, "title": "digitallearningdesign", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 24, "title": "digitallearningdesign", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "designdesignsupport", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "design", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "customerservice", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "customerservice", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "custodialcare", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "custodialcare", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "culturalandheritagevenueoperations", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "culturalandheritagevenueoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "culturalandheritagevenueoperationsculturalheritage", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "culturalandheritagevenueoperationsculturalheritage", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 15, "title": "creativeanddigitalmediainteractivedesignanddevelopment", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 15, "title": "creativeanddigitalmedia", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "courttribunalandprosecutionoperationscourtandtribunaladministration", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "courttribunalandprosecutionoperationscourtandtribunaladministration", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 60, "title": "control/technicalsupportengineer", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "contactcentreoperations", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "contactcentreoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "consumerelectricalandelectronicproductsrepairingmodulefaults", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "consumerelectricalandelectronicproductsrepairingcomponentfaults", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "consumerelectricalandelectronicproductsdeliveringandinstalling", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionaltownplanningtechnicalsupport", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionaloccupationalworksupervision", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionalgeomaticsdataanalysis", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionalconstructioncontractingoperations", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionalcivilengineeringfortechnicians", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionalbuiltenvironmentanddesign", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructiontechnicalandprofessionalbuildingcontrol", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionsteelfixer", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialistwallandfloortiling", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialistwallandfloortiling", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialistthermalinsulation", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialistthermalinsulation", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialiststonemasonry", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialiststonemasonry", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialistroofingoccupations", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialistroofingoccupations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialistplastering", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialistplastering", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialistmasticasphalting", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialistmasticasphalting", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionspecialistinteriorsystems", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "constructionspecialistinsulationandbuildingtreatments", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionspecialistheritageskills", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionspecialistfloorcovering", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionspecialistfittedinteriors", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionspecialistcladdingoccupations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionspecialistappliedwaterproofmembranes", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionspecialistaccessingandrigging", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "constructionmanagementsustainability", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "constructionmanagementmanagementquantitysurveyingandcommercialmanagement", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "constructionmanagementfoundationdegreeincivilengineering", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "constructionmanagementfoundationdegreeinbuiltenvironment", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "constructionmanagementfoundationdegreeinarchitecture", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "constructionmanagementfoundationdegreeprofessionalpracticeinconstructionoperationsmanagement", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "constructionmanagementconstructionandbuildingservicesmanagementandsupervision(sustainability)", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "constructionmanagementconstructionsitesupervision", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 12, "title": "constructionmanagementconstructionsitemanagement", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 23, "title": "constructioncivilengineeringtunnellingoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructioncivilengineeringsteelfixing", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructioncivilengineeringspecialistconcreteoccupations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructioncivilengineeringplantoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructioncivilengineeringplantmaintenance", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructioncivilengineeringplantmaintenance", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructioncivilengineeringhighwaysmaintenance", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructioncivilengineeringformworkoccupations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructioncivilengineeringconstructionoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionbuildingwoodmachining", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionbuildingwoodoccupations", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionbuildingwoodoccupations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionbuildingtroweloccupations", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "constructionbuildingtroweloccupations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionbuildingmaintenanceoperations", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "constructionbuildingdecorativefinishingandindustrialpainting", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 30, "title": "constructionbuildingdecorativefinishing", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "compositeengineering", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "compositeengineering", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "communitysafetycommunityfiresafety", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "communityartscommunityartsmanagement", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "communityartscommunityartsadministration", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 24, "title": "commercialprocurementandsupply", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "coachingcoachingtennis", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "coachingcoachingtennis", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "coachingcoachingswimming", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "cleaningandenvironmentalsupportservicespestmanagement", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "cleaningandenvironmentalsupportserviceslocalenvironmentalservices", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "cleaningandenvironmentalsupportservicescleaningandsupportservices", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "cleaningandenvironmentalsupportservicescleaningsupervision", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 66, "title": "civilengineer", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 20, "title": "childrenandyoungpeople'sworkforceresidentialchildcare", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 20, "title": "childrenandyoungpeople'sworkforceearlyyearseducator", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "childrenandyoungpeople'sworkforce", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 20, "title": "childrenandyoungpeople'sworkforcechildrenandyoungpeople'ssocialcare", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 60, "title": "charteredsurveyor", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 48, "title": "charteredmanagerdegreeapprenticeship", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 18, "title": "cateringandprofessionalchefsprofessionalcookery", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "cateringandprofessionalchefspatisserieandconfectionery", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "cateringandprofessionalchefsfoodproductionandcooking", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "cateringandprofessionalchefschefsinthelicensedhospitalityindustry", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "careleadershipandmanagementspecialistadultsocialcare", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 12, "title": "careleadershipandmanagementgeneraladultsocialcare", "max_funding": NaN, "level": 5, "level-detail": "(equivalent to foundation degree)"}
+{"duration": 24, "title": "businessandprofessionaladministration", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 18, "title": "businessandadministrationmedicaladministration", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "businessandadministrationmedicaladministration", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "businessandadministrationlegaladministration", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "businessandadministrationlegaladministration", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "businessandadministration", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "businessandadministration", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "busandcoachengineeringmanager", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 42, "title": "buildingservicesengineeringtechnologyandprojectmanagementtechnician", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "buildingservicesengineeringtechnologyandprojectmanagementdesigntechnician", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 42, "title": "buildingservicesdesigntechnician", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 66, "title": "buildingservicesdesignengineer", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "broadcasttechnologyhigherapprenticeship-bbcbroadcasttechnology", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 12, "title": "beautytherapybeautytherapymassage", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "beautytherapybeautytherapymake-up", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "beautytherapybeautytherapymake-up", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "beautytherapybeautytherapygeneral", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "beautytherapybeautytherapygeneral", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "barbering", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "barbering", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "baker", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 15, "title": "animaltechnologist", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 24, "title": "animalcare", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 18, "title": "animalcare", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "agriculture", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 15, "title": "agriculture", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "agricultureagriculturalbusinessmanagement", "max_funding": NaN, "level": 4, "level-detail": "(equivalent to certificate of higher education)"}
+{"duration": 48, "title": "aerospacesoftwaredevelopmentengineer", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 48, "title": "aerospaceengineer", "max_funding": NaN, "level": 6, "level-detail": "(equivalent to bachelor's degree)"}
+{"duration": 22, "title": "advancedbutcher", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 36, "title": "advancedclinicalpractitioner", "max_funding": NaN, "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
+{"duration": 12, "title": "activityleadershipoutdoors", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "activityleadershipleadership", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "activityleadershipexerciseandfitness", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 12, "title": "activityleadershipcoaching", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 18, "title": "accounting", "max_funding": NaN, "level": 3, "level-detail": "(equivalent to A levels at grades A to E)"}
+{"duration": 12, "title": "accounting", "max_funding": NaN, "level": 2, "level-detail": "(equivalent to GCSEs at grades A* to C)"}
+{"duration": 36, "title": "accountancytaxationprofessional", "max_funding": NaN, "level": 7, "level-detail": "(equivalent to master\u2019s degree)"}
