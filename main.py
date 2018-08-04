@@ -11,7 +11,6 @@ apprenticeships_start_url = "https://findapprenticeshiptraining.sfa.bis.gov.uk/A
 apprenticeships_end_url = "&order=1"
 
 
-
 def get_soup(url):
 	"""Return soup object of web page."""
 	uClient = uReq(url)
