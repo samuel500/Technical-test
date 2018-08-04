@@ -170,7 +170,6 @@ def main():
 	df_apprenticeships = pd.DataFrame(apprenticeships)
 
 	dataset_match = pd.merge(df_standards, df_apprenticeships, on=['level', 'duration', 'title'], how='outer')
-		# = len(pd.merge(df_standards, df_apprenticeships, on=['level', 'duration', 'title'], how='inner'))
 
 	list_of_dataset = dataset_match.to_dict('records')
 
@@ -188,6 +187,7 @@ def main():
 
 	#step_3
 	print("Number of merged data points:",  len(standards) + len(apprenticeships) - len(dataset_match))
+		# = len(pd.merge(df_standards, df_apprenticeships, on=['level', 'duration', 'title'], how='inner'))
 	print("Theoretical max merged data points without losing data:", min(len(standards), len(apprenticeships)))
 
 	print("Unmatched apprenticeships:", len(unmatched_apprenticeships), "out of", len(apprenticeships))

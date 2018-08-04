@@ -6,7 +6,7 @@ The threading library is used to scrap the many pages of one of those sites in p
 Pandas is used for the dataset matching and some analyis.
 
 ## Requirements
-Beautiful Soup 4
+Beautiful Soup 4  
 Pandas
 
 ## Useful links
