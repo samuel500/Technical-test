@@ -142,14 +142,12 @@ class scrapingThread (threading.Thread):
 
 
 def main():
-
-
 	"""
 	#Optimization test for pages_per_thread
-	ppts =  [1, 2, 3, 4, 5, 6, 7, 10, 15, 20]
+	ppts = [1, 2, 3, 4, 5, 6, 7, 10, 15, 20, 40]
 	for i in ppts:
 		print("ppt:", i)
-		nb_iter = 12
+		nb_iter = 8
 		t_tot = 0
 		for y in range(nb_iter):
 			tStart = time()
@@ -157,7 +155,6 @@ def main():
 			t_tot += time()-tStart
 		print("avg time:", t_tot/nb_iter)
 	raise
-	#1 page per thread is the fastest, 3 or 4 pages per thread probably optimal.
 	"""
 
 	standards = scrape_standards(standards_url)
